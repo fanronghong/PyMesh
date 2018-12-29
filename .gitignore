@@ -10,6 +10,7 @@
 *.dia.autosave
 .DS_Store
 
+.idea/
 lib/
 bin/
 swig/
